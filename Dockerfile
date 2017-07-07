@@ -6,4 +6,3 @@ COPY static-content /usr/share/nginx/html
 
 #expose port 80 to the host
 EXPOSE 80
-
