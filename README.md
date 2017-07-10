@@ -1,1 +1,1 @@
-# docker-nginx
+Docker image running nginx
